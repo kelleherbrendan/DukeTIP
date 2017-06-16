@@ -38,7 +38,7 @@ def enterGuess():
 	while not guess.isalpha() or len(guess) > 1 or len(guess) == 0:
 		print(" ")
 		print("Invalid entry. Try again.")
-		guess = input("Enter a letter: ")
+		guess = input("Enter a letter: ").lower()
 	letterUsed = True
 	while True:
 		if not letterUsed:
@@ -48,7 +48,7 @@ def enterGuess():
 			if usedLetters[a] == guess:
 				print(" ")
 				print("Letter already used. Try again.")
-				guess = input("Enter a letter: ")
+				guess = input("Enter a letter: ").lower()
 				letterUsed = True
 				break
 	#adds guess to used letters
@@ -141,6 +141,6 @@ while True:
 	play = input("Play again? (Y/N) ").upper()
 	while not play == "Y" and not play == "N":
 		print("Your answer was invalid.")
-		play = input("Play again? (Y/N) ")
+		play = input("Play again? (Y/N) ").upper()
 	if play == "N":
 		break
