@@ -15,19 +15,19 @@ plt.plot(xRange, yReg, label='Regression')
 
 # Input Angle Calculation
 inputAng = input('Enter an integer angle or type g to go to the graph: ')
-while not inputAng.isdigit():
-    if inputAng == 'g':
-        break
-    print('Try again. ', end='')
-    inputAng = input('Enter an integer angle or type g to go to the graph: ')
+# while not inputAng.isdigit():
+    # if inputAng == 'g':
+        # break
+    # print('Try again. ', end='')
+    # inputAng = input('Enter an integer angle or type g to go to the graph: ')
 while not inputAng == 'g':
     print('Distance: ' + str(eq(int(inputAng))) + ' inches')
     inputAng = input('Enter an integer angle or type g to go to the graph: ')
-    while not inputAng.isdigit():
-        if inputAng == 'g':
-            break
-        print('Try again. ', end='')
-        inputAng = input('Enter an integer angle or type g to go to the graph: ')
+    # while not inputAng.isdigit():
+        # if inputAng == 'g':
+            # break
+        # print('Try again. ', end='')
+        # inputAng = input('Enter an integer angle or type g to go to the graph: ')
 
 # Graph draw
 plt.show()

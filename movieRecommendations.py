@@ -6,14 +6,13 @@ from numpy import *
 
 def findSimilar(iLike, userLikes):
     # Create an And similarity
-    similarityAnd = 0 # replace 0 with the correct code
-    # Create a per user sum
-    similaritySum = 0 # replace 0 with the correct code
+    similarityAnd = (iLike * userLikes)
+    andSum = similarityAnd.sum(axis=1)
     # Create an Or similarity
-    userSimilarityOr = 0 # replace 0 with the correct code
+    similarityOr = (iLike + userLikes - similarityAnd).sum(axis=1)
 
     # Calculate the similarity
-    userSimilarity = 0 # replace 0 with the correct code to calculate the Jaccard Index for each user
+    userSimilarity = andSum / similarityOr
 
     # Make the most similar user has a new like that the previous user did not have
     # I used a while loop.
@@ -21,30 +20,34 @@ def findSimilar(iLike, userLikes):
     # by setting the userSimilarity for them to 0
     # When you get the index, save it in the variable maxIndex
 
-    # Print the max similarity number (most times this is something like 0.17
 
+    # if not userLikes[user][] == iLike
+    list = argwhere(userLikes[1][:] == 1)
+
+
+    # Print the max similarity number (most times this is something like 0.17)
     # Return the index of the user which is the best match
-    return maxIndex
+    return andSum.argmax()
     
 def printMovie(id):
-    # Print the id of the movie and the name.  This should look something like
-    # "    - 430: Duck Soup (1933)" if the id is 430 and the name is Duck Soup (1933)
-    print(0) # replace 0 with the correct code
+    # Print the id of the movie and the name.
+    print('    - ' + str(id) + ': ' + str(movieDict[id]))
 
 def processLikes(iLike):
     print("\n\nSince you like:")
     
     # Print the name of each movie the user reported liking
     # Hint: Use a for loop and the printMovie function.
+    for a in iLike:
+        printMovie(a)
 
     # Convert iLike into an array of 0's and 1's which matches the array for other users
-    # It should have one column for each movie (just like the userLikes array)
-    # Start with all zeros, then fill in a 1 for each movie the user likes
-    iLikeNp = 0 # replace 0 with the code to make the array of zeros
-    # You'll need a few more lines of code to fill in the 1's as needed
+    iLikeNp = zeros(maxMovie)
+    for id in iLike:
+        iLikeNp[id] = 1
 
     # Find the most similar user
-    user = 0 # replace 0 with the correct code (hint: use one of your functions)
+    user = findSimilar(iLikeNp,userLikes)
     print("\nYou might like: ")
     # Find the indexes of the values that are ones
     # https://stackoverflow.com/a/17568803/3854385 (Note: You don't want it to be a list, but you do want to flatten it.)
@@ -118,26 +121,15 @@ while a < 10:
 
 # Create a user likes numpy ndarray so we can use Jaccard Similarity
 # A user "likes" a movie if they rated it a 4 or 5
-# Create a numpy ndarray of zeros with demensions of max user id + 1 and max movie + 1 (because we'll use them as 1 indexed not zero indexed)
-
 maxMovie = movieData['movie'].max() + 1
 maxUser = movieData['user'].max() + 1
 userLikes = zeros((maxUser, maxMovie))
 
 # Go through all the rows of the movie data.
 # If the user rated a movie as 4 or 5 set userLikes to 1 for that user and movie
-# Note: You'll need a for loop and an if statement
-# user = rows/arrays, movie = column
-
-print(movieData)
-
-exit(0)
-
-for a in range(maxUser):
+for a in range(len(movieData)):
     if movieData[a]['rating'] >= 4:
-        userLikes[a][] = 1
-# if rating >= 4:
-    # array[user][movie] = 1
+        userLikes[movieData[a]['user']][movieData[a]['movie']] = 1
 
 ########################################################
 # At this point, go back up to the top and fill in the
@@ -147,22 +139,33 @@ for a in range(maxUser):
 # First sample user
 # User Similiarity: 0.133333333333
 iLike = [655, 315, 66, 96, 194, 172]
-processLikes(iLike)
+# processLikes(iLike)
 
 # What if it's an exact match? We should return the next closest match
 # Second sample case
 # User Similiarity: 0.172413793103
 iLike = [79,  96,  98, 168, 173, 176, 194, 318, 357, 427, 603]
-processLikes(iLike)
+# processLikes(iLike)
 
 # What if we've seen all the movies they liked?
 # Third sample case
 # User Similiarity: 0.170731707317
 iLike = [79,  96,  98, 168, 173, 176, 194, 318, 357, 427, 603, 1]
-processLikes(iLike)
+# processLikes(iLike)
 
 # If your code completes the above recommendations properly, you're ready for the last part,
 # allow the user to select any number of movies that they like and then give them recommendations.
 # Note: I recommend having them select movies by ID since the titles are really long.
 # You can just assume they have a list of movies somewhere so they already know what numbers to type in.
 # If you'd like to give them options though, that would be a cool bonus project if you finish early.
+
+iLike = []
+while True:
+    likeInput = input("Enter the ID of a movie you like (leave blank to stop): ")
+    if len(likeInput) == 0:
+        break
+    elif likeInput.isdigit() and int(likeInput) in movieDict and not int(likeInput) in iLike:
+        iLike.append(int(likeInput))
+    else:
+        print("Invalid answer.")
+processLikes(iLike)
