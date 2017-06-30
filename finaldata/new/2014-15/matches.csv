@@ -1,0 +1,381 @@
+Team 1,Goals 1,Team 2,Goals 2
+Manchester United,1,Swansea City,2
+Leicester City,2,Everton FC,2
+Queens Park Rangers,0,Hull City,1
+Stoke City,0,Aston Villa,1
+West Bromwich Albion,2,Sunderland AFC,2
+West Ham United,0,Tottenham Hotspur,1
+Arsenal FC,2,Crystal Palace,1
+Liverpool FC,2,Southampton FC,1
+Newcastle United,0,Manchester City,2
+Burnley FC,1,Chelsea FC,3
+Aston Villa,0,Newcastle United,0
+Chelsea FC,2,Leicester City,0
+Crystal Palace,1,West Ham United,3
+Everton FC,2,Arsenal FC,2
+Hull City,1,Stoke City,1
+Manchester City,3,Liverpool FC,1
+Southampton FC,0,West Bromwich Albion,0
+Sunderland AFC,1,Manchester United,1
+Swansea City,1,Burnley FC,0
+Tottenham Hotspur,4,Queens Park Rangers,0
+Aston Villa,2,Hull City,1
+Burnley FC,0,Manchester United,0
+Everton FC,3,Chelsea FC,6
+Leicester City,1,Arsenal FC,1
+Manchester City,0,Stoke City,1
+Newcastle United,3,Crystal Palace,3
+Queens Park Rangers,1,Sunderland AFC,0
+Swansea City,3,West Bromwich Albion,0
+Tottenham Hotspur,0,Liverpool FC,3
+West Ham United,1,Southampton FC,3
+Arsenal FC,2,Manchester City,2
+Chelsea FC,4,Swansea City,2
+Crystal Palace,0,Burnley FC,0
+Hull City,2,West Ham United,2
+Liverpool FC,0,Aston Villa,1
+Manchester United,4,Queens Park Rangers,0
+Southampton FC,4,Newcastle United,0
+Stoke City,0,Leicester City,1
+Sunderland AFC,2,Tottenham Hotspur,2
+West Bromwich Albion,0,Everton FC,2
+Aston Villa,0,Arsenal FC,3
+Burnley FC,0,Sunderland AFC,0
+Everton FC,2,Crystal Palace,3
+Leicester City,5,Manchester United,3
+Manchester City,1,Chelsea FC,1
+Newcastle United,2,Hull City,2
+Queens Park Rangers,2,Stoke City,2
+Swansea City,0,Southampton FC,1
+Tottenham Hotspur,0,West Bromwich Albion,1
+West Ham United,3,Liverpool FC,1
+Arsenal FC,1,Tottenham Hotspur,1
+Chelsea FC,3,Aston Villa,0
+Crystal Palace,2,Leicester City,0
+Hull City,2,Manchester City,4
+Liverpool FC,1,Everton FC,1
+Manchester United,2,West Ham United,1
+Southampton FC,2,Queens Park Rangers,1
+Stoke City,1,Newcastle United,0
+Sunderland AFC,0,Swansea City,0
+West Bromwich Albion,4,Burnley FC,0
+Aston Villa,0,Manchester City,2
+Chelsea FC,2,Arsenal FC,0
+Hull City,2,Crystal Palace,0
+Leicester City,2,Burnley FC,2
+Liverpool FC,2,West Bromwich Albion,1
+Manchester United,2,Everton FC,1
+Sunderland AFC,3,Stoke City,1
+Swansea City,2,Newcastle United,2
+Tottenham Hotspur,1,Southampton FC,0
+West Ham United,2,Queens Park Rangers,0
+Arsenal FC,2,Hull City,2
+Burnley FC,1,West Ham United,3
+Crystal Palace,1,Chelsea FC,2
+Everton FC,3,Aston Villa,0
+Manchester City,4,Tottenham Hotspur,1
+Newcastle United,1,Leicester City,0
+Queens Park Rangers,2,Liverpool FC,3
+Southampton FC,8,Sunderland AFC,0
+Stoke City,2,Swansea City,1
+West Bromwich Albion,2,Manchester United,2
+Burnley FC,1,Everton FC,3
+Liverpool FC,0,Hull City,0
+Manchester United,1,Chelsea FC,1
+Queens Park Rangers,2,Aston Villa,0
+Southampton FC,1,Stoke City,0
+Sunderland AFC,0,Arsenal FC,2
+Swansea City,2,Leicester City,0
+Tottenham Hotspur,1,Newcastle United,2
+West Bromwich Albion,2,Crystal Palace,2
+West Ham United,2,Manchester City,1
+Arsenal FC,3,Burnley FC,0
+Aston Villa,1,Tottenham Hotspur,2
+Chelsea FC,2,Queens Park Rangers,1
+Everton FC,0,Swansea City,0
+Hull City,0,Southampton FC,1
+Leicester City,0,West Bromwich Albion,1
+Manchester City,1,Manchester United,0
+Newcastle United,1,Liverpool FC,0
+Stoke City,2,West Ham United,2
+Crystal Palace,1,Sunderland AFC,3
+Burnley FC,1,Hull City,0
+Liverpool FC,1,Chelsea FC,2
+Manchester United,1,Crystal Palace,0
+Queens Park Rangers,2,Manchester City,2
+Southampton FC,2,Leicester City,0
+Sunderland AFC,1,Everton FC,1
+Swansea City,2,Arsenal FC,1
+Tottenham Hotspur,1,Stoke City,2
+West Bromwich Albion,0,Newcastle United,2
+West Ham United,0,Aston Villa,0
+Arsenal FC,1,Manchester United,2
+Aston Villa,1,Southampton FC,1
+Chelsea FC,2,West Bromwich Albion,0
+Crystal Palace,3,Liverpool FC,1
+Everton FC,2,West Ham United,1
+Hull City,1,Tottenham Hotspur,2
+Leicester City,0,Sunderland AFC,0
+Manchester City,2,Swansea City,1
+Newcastle United,1,Queens Park Rangers,0
+Stoke City,1,Burnley FC,2
+Burnley FC,1,Aston Villa,1
+Liverpool FC,1,Stoke City,0
+Manchester United,3,Hull City,0
+Queens Park Rangers,3,Leicester City,2
+Southampton FC,0,Manchester City,3
+Sunderland AFC,0,Chelsea FC,0
+Swansea City,1,Crystal Palace,1
+Tottenham Hotspur,2,Everton FC,1
+West Bromwich Albion,0,Arsenal FC,1
+West Ham United,1,Newcastle United,0
+Arsenal FC,1,Southampton FC,0
+Burnley FC,1,Newcastle United,1
+Leicester City,1,Liverpool FC,3
+Manchester United,2,Stoke City,1
+Swansea City,2,Queens Park Rangers,0
+Crystal Palace,0,Aston Villa,1
+West Bromwich Albion,1,West Ham United,2
+Chelsea FC,3,Tottenham Hotspur,0
+Everton FC,1,Hull City,1
+Sunderland AFC,1,Manchester City,4
+Aston Villa,2,Leicester City,1
+Hull City,0,West Bromwich Albion,0
+Liverpool FC,0,Sunderland AFC,0
+Manchester City,1,Everton FC,0
+Newcastle United,2,Chelsea FC,1
+Queens Park Rangers,2,Burnley FC,0
+Southampton FC,1,Manchester United,2
+Stoke City,3,Arsenal FC,2
+Tottenham Hotspur,0,Crystal Palace,0
+West Ham United,3,Swansea City,1
+Arsenal FC,4,Newcastle United,1
+Burnley FC,1,Southampton FC,0
+Chelsea FC,2,Hull City,0
+Crystal Palace,1,Stoke City,1
+Everton FC,3,Queens Park Rangers,1
+Leicester City,0,Manchester City,1
+Manchester United,3,Liverpool FC,0
+Sunderland AFC,1,West Ham United,1
+Swansea City,1,Tottenham Hotspur,2
+West Bromwich Albion,1,Aston Villa,0
+Aston Villa,1,Manchester United,1
+Hull City,0,Swansea City,1
+Liverpool FC,2,Arsenal FC,2
+Manchester City,3,Crystal Palace,0
+Newcastle United,0,Sunderland AFC,1
+Queens Park Rangers,3,West Bromwich Albion,2
+Southampton FC,3,Everton FC,0
+Stoke City,0,Chelsea FC,2
+Tottenham Hotspur,2,Burnley FC,1
+West Ham United,2,Leicester City,0
+Arsenal FC,2,Queens Park Rangers,1
+Burnley FC,0,Liverpool FC,1
+Chelsea FC,2,West Ham United,0
+Crystal Palace,1,Southampton FC,3
+Everton FC,0,Stoke City,1
+Leicester City,1,Tottenham Hotspur,2
+Manchester United,3,Newcastle United,1
+Sunderland AFC,1,Hull City,3
+Swansea City,1,Aston Villa,0
+West Bromwich Albion,1,Manchester City,3
+Aston Villa,0,Sunderland AFC,0
+Hull City,0,Leicester City,1
+Liverpool FC,4,Swansea City,1
+Manchester City,2,Burnley FC,2
+Newcastle United,3,Everton FC,2
+Queens Park Rangers,0,Crystal Palace,0
+Southampton FC,1,Chelsea FC,1
+Stoke City,2,West Bromwich Albion,0
+Tottenham Hotspur,0,Manchester United,0
+West Ham United,1,Arsenal FC,2
+Aston Villa,0,Crystal Palace,0
+Hull City,2,Everton FC,0
+Liverpool FC,2,Leicester City,2
+Manchester City,3,Sunderland AFC,2
+Newcastle United,3,Burnley FC,3
+Queens Park Rangers,1,Swansea City,1
+Southampton FC,2,Arsenal FC,0
+Stoke City,1,Manchester United,1
+Tottenham Hotspur,5,Chelsea FC,3
+West Ham United,1,West Bromwich Albion,1
+Arsenal FC,3,Stoke City,0
+Burnley FC,2,Queens Park Rangers,1
+Chelsea FC,2,Newcastle United,0
+Crystal Palace,2,Tottenham Hotspur,1
+Everton FC,1,Manchester City,1
+Leicester City,1,Aston Villa,0
+Manchester United,0,Southampton FC,1
+Sunderland AFC,0,Liverpool FC,1
+Swansea City,1,West Ham United,1
+West Bromwich Albion,1,Hull City,0
+Aston Villa,0,Liverpool FC,2
+Burnley FC,2,Crystal Palace,3
+Everton FC,0,West Bromwich Albion,0
+Leicester City,0,Stoke City,1
+Manchester City,0,Arsenal FC,2
+Newcastle United,1,Southampton FC,2
+Queens Park Rangers,0,Manchester United,2
+Swansea City,0,Chelsea FC,5
+Tottenham Hotspur,2,Sunderland AFC,1
+West Ham United,3,Hull City,0
+Arsenal FC,5,Aston Villa,0
+Chelsea FC,1,Manchester City,1
+Crystal Palace,0,Everton FC,1
+Hull City,0,Newcastle United,3
+Liverpool FC,2,West Ham United,0
+Manchester United,3,Leicester City,1
+Southampton FC,0,Swansea City,1
+Stoke City,3,Queens Park Rangers,1
+Sunderland AFC,2,Burnley FC,0
+West Bromwich Albion,0,Tottenham Hotspur,3
+Aston Villa,1,Chelsea FC,2
+Burnley FC,2,West Bromwich Albion,2
+Everton FC,0,Liverpool FC,0
+Leicester City,0,Crystal Palace,1
+Manchester City,1,Hull City,1
+Newcastle United,1,Stoke City,1
+Queens Park Rangers,0,Southampton FC,1
+Swansea City,1,Sunderland AFC,1
+Tottenham Hotspur,2,Arsenal FC,1
+West Ham United,1,Manchester United,1
+Arsenal FC,2,Leicester City,1
+Hull City,2,Aston Villa,0
+Manchester United,3,Burnley FC,1
+Southampton FC,0,West Ham United,0
+Crystal Palace,1,Newcastle United,1
+Liverpool FC,3,Tottenham Hotspur,2
+West Bromwich Albion,2,Swansea City,0
+Chelsea FC,1,Everton FC,0
+Stoke City,1,Manchester City,4
+Sunderland AFC,0,Queens Park Rangers,2
+Aston Villa,1,Stoke City,2
+Chelsea FC,1,Burnley FC,1
+Crystal Palace,1,Arsenal FC,2
+Everton FC,2,Leicester City,2
+Hull City,2,Queens Park Rangers,1
+Manchester City,5,Newcastle United,0
+Southampton FC,0,Liverpool FC,2
+Sunderland AFC,0,West Bromwich Albion,0
+Swansea City,2,Manchester United,1
+Tottenham Hotspur,2,West Ham United,2
+Arsenal FC,2,Everton FC,0
+Burnley FC,0,Swansea City,1
+Leicester City,1,Chelsea FC,3
+Liverpool FC,2,Manchester City,1
+Manchester United,2,Sunderland AFC,0
+Newcastle United,1,Aston Villa,0
+Queens Park Rangers,1,Tottenham Hotspur,2
+Stoke City,1,Hull City,0
+West Bromwich Albion,1,Southampton FC,0
+West Ham United,1,Crystal Palace,3
+Aston Villa,2,West Bromwich Albion,1
+Hull City,1,Sunderland AFC,1
+Queens Park Rangers,1,Arsenal FC,2
+Southampton FC,1,Crystal Palace,0
+West Ham United,0,Chelsea FC,1
+Liverpool FC,2,Burnley FC,0
+Manchester City,2,Leicester City,0
+Newcastle United,0,Manchester United,1
+Stoke City,2,Everton FC,0
+Tottenham Hotspur,3,Swansea City,2
+Arsenal FC,3,West Ham United,0
+Burnley FC,1,Manchester City,0
+Chelsea FC,1,Southampton FC,1
+Crystal Palace,3,Queens Park Rangers,1
+Everton FC,3,Newcastle United,0
+Leicester City,0,Hull City,0
+Manchester United,3,Tottenham Hotspur,0
+Sunderland AFC,0,Aston Villa,4
+Swansea City,0,Liverpool FC,1
+West Bromwich Albion,1,Stoke City,0
+Aston Villa,0,Swansea City,1
+Hull City,2,Chelsea FC,3
+Liverpool FC,1,Manchester United,2
+Manchester City,3,West Bromwich Albion,0
+Newcastle United,1,Arsenal FC,2
+Queens Park Rangers,1,Everton FC,2
+Southampton FC,2,Burnley FC,0
+Stoke City,1,Crystal Palace,2
+Tottenham Hotspur,4,Leicester City,3
+West Ham United,1,Sunderland AFC,0
+Arsenal FC,4,Liverpool FC,1
+Burnley FC,0,Tottenham Hotspur,0
+Chelsea FC,2,Stoke City,1
+Crystal Palace,2,Manchester City,1
+Everton FC,1,Southampton FC,0
+Leicester City,2,West Ham United,1
+Manchester United,3,Aston Villa,1
+Sunderland AFC,1,Newcastle United,0
+Swansea City,3,Hull City,1
+West Bromwich Albion,1,Queens Park Rangers,4
+Burnley FC,0,Arsenal FC,1
+Liverpool FC,2,Newcastle United,0
+Manchester United,4,Manchester City,2
+Queens Park Rangers,0,Chelsea FC,1
+Southampton FC,2,Hull City,0
+Sunderland AFC,1,Crystal Palace,4
+Swansea City,1,Everton FC,1
+Tottenham Hotspur,0,Aston Villa,1
+West Bromwich Albion,2,Leicester City,3
+West Ham United,1,Stoke City,1
+Arsenal FC,0,Sunderland AFC,0
+Aston Villa,3,Queens Park Rangers,3
+Chelsea FC,1,Manchester United,0
+Crystal Palace,0,West Bromwich Albion,2
+Everton FC,1,Burnley FC,0
+Hull City,1,Liverpool FC,0
+Leicester City,2,Swansea City,0
+Manchester City,2,West Ham United,0
+Newcastle United,1,Tottenham Hotspur,3
+Stoke City,2,Southampton FC,1
+Arsenal FC,0,Chelsea FC,0
+Burnley FC,0,Leicester City,1
+Crystal Palace,0,Hull City,2
+Everton FC,3,Manchester United,0
+Manchester City,3,Aston Villa,2
+Newcastle United,2,Swansea City,3
+Queens Park Rangers,0,West Ham United,0
+Southampton FC,2,Tottenham Hotspur,2
+Stoke City,1,Sunderland AFC,1
+West Bromwich Albion,0,Liverpool FC,0
+Aston Villa,3,Everton FC,2
+Chelsea FC,1,Crystal Palace,0
+Hull City,1,Arsenal FC,3
+Leicester City,3,Newcastle United,0
+Liverpool FC,2,Queens Park Rangers,1
+Manchester United,0,West Bromwich Albion,1
+Sunderland AFC,2,Southampton FC,1
+Swansea City,2,Stoke City,0
+Tottenham Hotspur,0,Manchester City,1
+West Ham United,1,Burnley FC,0
+Arsenal FC,0,Swansea City,1
+Aston Villa,1,West Ham United,0
+Chelsea FC,1,Liverpool FC,1
+Crystal Palace,1,Manchester United,2
+Everton FC,0,Sunderland AFC,2
+Hull City,0,Burnley FC,1
+Leicester City,2,Southampton FC,0
+Manchester City,6,Queens Park Rangers,0
+Newcastle United,1,West Bromwich Albion,1
+Stoke City,3,Tottenham Hotspur,0
+Burnley FC,0,Stoke City,0
+Liverpool FC,1,Crystal Palace,3
+Manchester United,1,Arsenal FC,1
+Queens Park Rangers,2,Newcastle United,1
+Southampton FC,6,Aston Villa,1
+Sunderland AFC,0,Leicester City,0
+Swansea City,2,Manchester City,4
+Tottenham Hotspur,2,Hull City,0
+West Bromwich Albion,3,Chelsea FC,0
+West Ham United,1,Everton FC,2
+Arsenal FC,4,West Bromwich Albion,1
+Aston Villa,0,Burnley FC,1
+Chelsea FC,3,Sunderland AFC,1
+Crystal Palace,1,Swansea City,0
+Everton FC,0,Tottenham Hotspur,1
+Hull City,0,Manchester United,0
+Leicester City,5,Queens Park Rangers,1
+Manchester City,2,Southampton FC,0
+Newcastle United,2,West Ham United,0
+Stoke City,6,Liverpool FC,1

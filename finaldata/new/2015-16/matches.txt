@@ -1,0 +1,380 @@
+Manchester United|1|Tottenham Hotspur|0
+AFC Bournemouth|0|Aston Villa|1
+Everton FC|2|Watford FC|2
+Leicester City|4|Sunderland AFC|2
+Norwich City|1|Crystal Palace|3
+Chelsea FC|2|Swansea City|2
+Arsenal FC|0|West Ham United|2
+Newcastle United|2|Southampton FC|2
+Stoke City|0|Liverpool FC|1
+West Bromwich Albion|0|Manchester City|3
+Aston Villa|0|Manchester United|1
+Southampton FC|0|Everton FC|3
+Sunderland AFC|1|Norwich City|3
+Swansea City|2|Newcastle United|0
+Tottenham Hotspur|2|Stoke City|2
+Watford FC|0|West Bromwich Albion|0
+West Ham United|1|Leicester City|2
+Crystal Palace|1|Arsenal FC|2
+Manchester City|3|Chelsea FC|0
+Liverpool FC|1|AFC Bournemouth|0
+Manchester United|0|Newcastle United|0
+Crystal Palace|2|Aston Villa|1
+Leicester City|1|Tottenham Hotspur|1
+Norwich City|1|Stoke City|1
+Sunderland AFC|1|Swansea City|1
+West Ham United|3|AFC Bournemouth|4
+West Bromwich Albion|2|Chelsea FC|3
+Everton FC|0|Manchester City|2
+Watford FC|0|Southampton FC|0
+Arsenal FC|0|Liverpool FC|0
+Newcastle United|0|Arsenal FC|1
+AFC Bournemouth|1|Leicester City|1
+Aston Villa|2|Sunderland AFC|2
+Chelsea FC|1|Crystal Palace|2
+Liverpool FC|0|West Ham United|3
+Manchester City|2|Watford FC|0
+Stoke City|0|West Bromwich Albion|1
+Tottenham Hotspur|0|Everton FC|0
+Southampton FC|3|Norwich City|0
+Swansea City|2|Manchester United|1
+Everton FC|3|Chelsea FC|1
+Arsenal FC|2|Stoke City|0
+Crystal Palace|0|Manchester City|1
+Norwich City|3|AFC Bournemouth|1
+Watford FC|1|Swansea City|0
+West Bromwich Albion|0|Southampton FC|0
+Manchester United|3|Liverpool FC|1
+Sunderland AFC|0|Tottenham Hotspur|1
+Leicester City|3|Aston Villa|2
+West Ham United|2|Newcastle United|0
+Chelsea FC|2|Arsenal FC|0
+AFC Bournemouth|2|Sunderland AFC|0
+Aston Villa|0|West Bromwich Albion|1
+Newcastle United|1|Watford FC|2
+Stoke City|2|Leicester City|2
+Swansea City|0|Everton FC|0
+Manchester City|1|West Ham United|2
+Tottenham Hotspur|1|Crystal Palace|0
+Liverpool FC|1|Norwich City|1
+Southampton FC|2|Manchester United|3
+Tottenham Hotspur|4|Manchester City|1
+Leicester City|2|Arsenal FC|5
+Liverpool FC|3|Aston Villa|2
+Manchester United|3|Sunderland AFC|0
+Southampton FC|3|Swansea City|1
+Stoke City|2|AFC Bournemouth|1
+West Ham United|2|Norwich City|2
+Newcastle United|2|Chelsea FC|2
+Watford FC|0|Crystal Palace|1
+West Bromwich Albion|2|Everton FC|3
+AFC Bournemouth|1|Watford FC|1
+Arsenal FC|3|Manchester United|0
+Aston Villa|0|Stoke City|1
+Chelsea FC|1|Southampton FC|3
+Crystal Palace|2|West Bromwich Albion|0
+Everton FC|1|Liverpool FC|1
+Manchester City|6|Newcastle United|1
+Norwich City|1|Leicester City|2
+Sunderland AFC|2|West Ham United|2
+Swansea City|2|Tottenham Hotspur|2
+Chelsea FC|2|Aston Villa|0
+Crystal Palace|1|West Ham United|3
+Everton FC|0|Manchester United|3
+Manchester City|5|AFC Bournemouth|1
+Newcastle United|6|Norwich City|2
+Southampton FC|2|Leicester City|2
+Swansea City|0|Stoke City|1
+Tottenham Hotspur|0|Liverpool FC|0
+Watford FC|0|Arsenal FC|3
+West Bromwich Albion|1|Sunderland AFC|0
+AFC Bournemouth|1|Tottenham Hotspur|5
+Arsenal FC|2|Everton FC|1
+Aston Villa|1|Swansea City|2
+Leicester City|1|Crystal Palace|0
+Liverpool FC|1|Southampton FC|1
+Manchester United|0|Manchester City|0
+Norwich City|0|West Bromwich Albion|1
+Stoke City|0|Watford FC|2
+Sunderland AFC|3|Newcastle United|0
+West Ham United|2|Chelsea FC|1
+Chelsea FC|1|Liverpool FC|3
+Crystal Palace|0|Manchester United|0
+Everton FC|6|Sunderland AFC|2
+Manchester City|2|Norwich City|1
+Newcastle United|0|Stoke City|0
+Southampton FC|2|AFC Bournemouth|0
+Swansea City|0|Arsenal FC|3
+Tottenham Hotspur|3|Aston Villa|1
+Watford FC|2|West Ham United|0
+West Bromwich Albion|2|Leicester City|3
+AFC Bournemouth|0|Newcastle United|1
+Arsenal FC|1|Tottenham Hotspur|1
+Aston Villa|0|Manchester City|0
+Leicester City|2|Watford FC|1
+Liverpool FC|1|Crystal Palace|2
+Manchester United|2|West Bromwich Albion|0
+Norwich City|1|Swansea City|0
+Stoke City|1|Chelsea FC|0
+Sunderland AFC|0|Southampton FC|1
+West Ham United|1|Everton FC|1
+Chelsea FC|1|Norwich City|0
+Crystal Palace|0|Sunderland AFC|1
+Everton FC|4|Aston Villa|0
+Manchester City|1|Liverpool FC|4
+Newcastle United|0|Leicester City|3
+Southampton FC|0|Stoke City|1
+Swansea City|2|AFC Bournemouth|2
+Tottenham Hotspur|4|West Ham United|1
+Watford FC|1|Manchester United|2
+West Bromwich Albion|2|Arsenal FC|1
+AFC Bournemouth|3|Everton FC|3
+Aston Villa|2|Watford FC|3
+Crystal Palace|5|Newcastle United|1
+Leicester City|1|Manchester United|1
+Liverpool FC|1|Swansea City|0
+Manchester City|3|Southampton FC|1
+Norwich City|1|Arsenal FC|1
+Sunderland AFC|2|Stoke City|0
+Tottenham Hotspur|0|Chelsea FC|0
+West Ham United|1|West Bromwich Albion|1
+Arsenal FC|3|Sunderland AFC|1
+Chelsea FC|0|AFC Bournemouth|1
+Everton FC|1|Crystal Palace|1
+Manchester United|0|West Ham United|0
+Newcastle United|2|Liverpool FC|0
+Southampton FC|1|Aston Villa|1
+Stoke City|2|Manchester City|0
+Swansea City|0|Leicester City|3
+Watford FC|2|Norwich City|0
+West Bromwich Albion|1|Tottenham Hotspur|1
+AFC Bournemouth|2|Manchester United|1
+Aston Villa|0|Arsenal FC|2
+Crystal Palace|1|Southampton FC|0
+Leicester City|2|Chelsea FC|1
+Liverpool FC|2|West Bromwich Albion|2
+Manchester City|2|Swansea City|1
+Norwich City|1|Everton FC|1
+Sunderland AFC|0|Watford FC|1
+Tottenham Hotspur|1|Newcastle United|2
+West Ham United|0|Stoke City|0
+Arsenal FC|2|Manchester City|1
+Chelsea FC|3|Sunderland AFC|1
+Everton FC|2|Leicester City|3
+Manchester United|1|Norwich City|2
+Newcastle United|1|Aston Villa|1
+Southampton FC|0|Tottenham Hotspur|2
+Stoke City|1|Crystal Palace|2
+Swansea City|0|West Ham United|0
+Watford FC|3|Liverpool FC|0
+West Bromwich Albion|1|AFC Bournemouth|2
+AFC Bournemouth|0|Crystal Palace|0
+Aston Villa|1|West Ham United|1
+Chelsea FC|2|Watford FC|2
+Liverpool FC|1|Leicester City|0
+Manchester City|4|Sunderland AFC|1
+Newcastle United|0|Everton FC|1
+Southampton FC|4|Arsenal FC|0
+Stoke City|2|Manchester United|0
+Swansea City|1|West Bromwich Albion|0
+Tottenham Hotspur|3|Norwich City|0
+Arsenal FC|2|AFC Bournemouth|0
+Crystal Palace|0|Swansea City|0
+Everton FC|3|Stoke City|4
+Leicester City|0|Manchester City|0
+Manchester United|0|Chelsea FC|0
+Norwich City|2|Aston Villa|0
+Sunderland AFC|0|Liverpool FC|1
+Watford FC|1|Tottenham Hotspur|2
+West Bromwich Albion|1|Newcastle United|0
+West Ham United|2|Southampton FC|1
+Arsenal FC|1|Newcastle United|0
+Leicester City|0|AFC Bournemouth|0
+Manchester United|2|Swansea City|1
+Norwich City|1|Southampton FC|0
+Sunderland AFC|3|Aston Villa|1
+Watford FC|1|Manchester City|2
+West Bromwich Albion|2|Stoke City|1
+West Ham United|2|Liverpool FC|0
+Crystal Palace|0|Chelsea FC|3
+Everton FC|1|Tottenham Hotspur|1
+AFC Bournemouth|1|West Ham United|3
+Aston Villa|1|Crystal Palace|0
+Liverpool FC|3|Arsenal FC|3
+Swansea City|2|Sunderland AFC|4
+Chelsea FC|2|West Bromwich Albion|2
+Manchester City|0|Everton FC|0
+Newcastle United|3|Manchester United|3
+Southampton FC|2|Watford FC|0
+Stoke City|3|Norwich City|1
+Tottenham Hotspur|0|Leicester City|1
+AFC Bournemouth|3|Norwich City|0
+Aston Villa|1|Leicester City|1
+Chelsea FC|3|Everton FC|3
+Manchester City|4|Crystal Palace|0
+Newcastle United|2|West Ham United|1
+Southampton FC|3|West Bromwich Albion|0
+Tottenham Hotspur|4|Sunderland AFC|1
+Liverpool FC|0|Manchester United|1
+Stoke City|0|Arsenal FC|0
+Swansea City|1|Watford FC|0
+Crystal Palace|1|Tottenham Hotspur|3
+Leicester City|3|Stoke City|0
+Manchester United|0|Southampton FC|1
+Norwich City|4|Liverpool FC|5
+Sunderland AFC|1|AFC Bournemouth|1
+Watford FC|2|Newcastle United|1
+West Bromwich Albion|0|Aston Villa|0
+West Ham United|2|Manchester City|2
+Arsenal FC|0|Chelsea FC|1
+Everton FC|1|Swansea City|2
+Arsenal FC|0|Southampton FC|0
+Crystal Palace|1|AFC Bournemouth|2
+Leicester City|2|Liverpool FC|0
+Manchester United|3|Stoke City|0
+Norwich City|0|Tottenham Hotspur|3
+Sunderland AFC|0|Manchester City|1
+Watford FC|0|Chelsea FC|0
+West Bromwich Albion|1|Swansea City|1
+West Ham United|2|Aston Villa|0
+Everton FC|3|Newcastle United|0
+Aston Villa|2|Norwich City|0
+Liverpool FC|2|Sunderland AFC|2
+Manchester City|1|Leicester City|3
+Newcastle United|1|West Bromwich Albion|0
+Stoke City|0|Everton FC|3
+Swansea City|1|Crystal Palace|1
+Tottenham Hotspur|1|Watford FC|0
+AFC Bournemouth|0|Arsenal FC|2
+Chelsea FC|1|Manchester United|1
+Southampton FC|1|West Ham United|0
+AFC Bournemouth|1|Stoke City|3
+Chelsea FC|5|Newcastle United|1
+Crystal Palace|1|Watford FC|2
+Everton FC|0|West Bromwich Albion|1
+Norwich City|2|West Ham United|2
+Sunderland AFC|2|Manchester United|1
+Swansea City|0|Southampton FC|1
+Arsenal FC|2|Leicester City|1
+Aston Villa|0|Liverpool FC|6
+Manchester City|1|Tottenham Hotspur|2
+Leicester City|1|Norwich City|0
+Southampton FC|1|Chelsea FC|2
+Stoke City|2|Aston Villa|1
+Watford FC|0|AFC Bournemouth|0
+West Bromwich Albion|3|Crystal Palace|2
+West Ham United|1|Sunderland AFC|0
+Liverpool FC|4|Everton FC|0
+Manchester United|3|Arsenal FC|2
+Newcastle United|1|Manchester City|1
+Tottenham Hotspur|2|Swansea City|1
+AFC Bournemouth|2|Southampton FC|0
+Aston Villa|1|Everton FC|3
+Leicester City|2|West Bromwich Albion|2
+Norwich City|1|Chelsea FC|2
+Sunderland AFC|2|Crystal Palace|2
+Arsenal FC|1|Swansea City|2
+Liverpool FC|3|Manchester City|0
+Manchester United|1|Watford FC|0
+Stoke City|1|Newcastle United|0
+West Ham United|1|Tottenham Hotspur|0
+Chelsea FC|1|Stoke City|1
+Everton FC|2|West Ham United|3
+Manchester City|4|Aston Villa|0
+Newcastle United|1|AFC Bournemouth|3
+Southampton FC|1|Sunderland AFC|1
+Swansea City|1|Norwich City|0
+Tottenham Hotspur|2|Arsenal FC|2
+Watford FC|0|Leicester City|1
+Crystal Palace|1|Liverpool FC|2
+West Bromwich Albion|1|Manchester United|0
+AFC Bournemouth|3|Swansea City|2
+Arsenal FC|2|West Bromwich Albion|0
+Aston Villa|0|Tottenham Hotspur|2
+Manchester United|2|Crystal Palace|0
+Norwich City|0|Manchester City|0
+Stoke City|1|Southampton FC|2
+Sunderland AFC|3|Everton FC|0
+West Ham United|3|Watford FC|1
+Liverpool FC|1|Chelsea FC|1
+Leicester City|1|Newcastle United|0
+Chelsea FC|2|West Ham United|2
+Crystal Palace|0|Leicester City|1
+Everton FC|0|Arsenal FC|2
+Southampton FC|3|Liverpool FC|2
+Swansea City|1|Aston Villa|0
+Tottenham Hotspur|3|AFC Bournemouth|0
+Watford FC|1|Stoke City|2
+West Bromwich Albion|0|Norwich City|1
+Manchester City|0|Manchester United|1
+Newcastle United|1|Sunderland AFC|1
+AFC Bournemouth|0|Manchester City|4
+Arsenal FC|4|Watford FC|0
+Aston Villa|0|Chelsea FC|4
+Leicester City|1|Southampton FC|0
+Liverpool FC|1|Tottenham Hotspur|1
+Manchester United|1|Everton FC|0
+Norwich City|3|Newcastle United|2
+Stoke City|2|Swansea City|2
+Sunderland AFC|0|West Bromwich Albion|0
+West Ham United|2|Crystal Palace|2
+Aston Villa|1|AFC Bournemouth|2
+Crystal Palace|1|Norwich City|0
+Liverpool FC|4|Stoke City|1
+Manchester City|2|West Bromwich Albion|1
+Southampton FC|3|Newcastle United|1
+Sunderland AFC|0|Leicester City|2
+Swansea City|1|Chelsea FC|0
+Tottenham Hotspur|3|Manchester United|0
+Watford FC|1|Everton FC|1
+West Ham United|3|Arsenal FC|3
+AFC Bournemouth|1|Liverpool FC|2
+Arsenal FC|1|Crystal Palace|1
+Chelsea FC|0|Manchester City|3
+Everton FC|1|Southampton FC|1
+Leicester City|2|West Ham United|2
+Manchester United|1|Aston Villa|0
+Newcastle United|3|Swansea City|0
+Norwich City|0|Sunderland AFC|3
+Stoke City|0|Tottenham Hotspur|4
+West Bromwich Albion|0|Watford FC|1
+AFC Bournemouth|1|Chelsea FC|4
+Aston Villa|2|Southampton FC|4
+Crystal Palace|0|Everton FC|0
+Leicester City|4|Swansea City|0
+Liverpool FC|2|Newcastle United|2
+Manchester City|4|Stoke City|0
+Norwich City|4|Watford FC|2
+Sunderland AFC|0|Arsenal FC|0
+Tottenham Hotspur|1|West Bromwich Albion|1
+West Ham United|3|Manchester United|2
+Arsenal FC|1|Norwich City|0
+Chelsea FC|2|Tottenham Hotspur|2
+Everton FC|2|AFC Bournemouth|1
+Manchester United|1|Leicester City|1
+Newcastle United|1|Crystal Palace|0
+Southampton FC|4|Manchester City|2
+Stoke City|1|Sunderland AFC|1
+Swansea City|3|Liverpool FC|1
+Watford FC|3|Aston Villa|2
+West Bromwich Albion|0|West Ham United|3
+AFC Bournemouth|1|West Bromwich Albion|1
+Aston Villa|0|Newcastle United|0
+Crystal Palace|2|Stoke City|1
+Leicester City|3|Everton FC|1
+Liverpool FC|2|Watford FC|0
+Manchester City|2|Arsenal FC|2
+Norwich City|0|Manchester United|1
+Sunderland AFC|3|Chelsea FC|2
+Tottenham Hotspur|1|Southampton FC|2
+West Ham United|1|Swansea City|4
+Arsenal FC|4|Aston Villa|0
+Chelsea FC|1|Leicester City|1
+Everton FC|3|Norwich City|0
+Manchester United|3|AFC Bournemouth|1
+Newcastle United|5|Tottenham Hotspur|1
+Southampton FC|4|Crystal Palace|1
+Stoke City|2|West Ham United|1
+Swansea City|1|Manchester City|1
+Watford FC|2|Sunderland AFC|2
+West Bromwich Albion|1|Liverpool FC|1
